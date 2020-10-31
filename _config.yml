@@ -54,3 +54,4 @@ plugins:
 theme: jekyll-theme-minimal
 
 github: [metadata]
+exclude: [vendor]
