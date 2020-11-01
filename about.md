@@ -11,4 +11,3 @@ what to expect:
  - ranting
  - some technical stuff
  - duck-duck-goose (and chickens)
-
