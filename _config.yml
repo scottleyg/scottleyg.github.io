@@ -54,5 +54,5 @@ theme: jekyll-theme-minimal
 
 github: [metadata]
 
-header_pages:
-  - about.md
+# header_pages:
+#   - about.md
