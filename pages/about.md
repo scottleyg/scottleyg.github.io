@@ -1,10 +1,10 @@
 ---
-layout: page
+layout: default
 title: About
 permalink: /about/
 ---
 
-Welcome to Scottley's blog... 
+# Welcome to Scottley's blog... 
 
 what to expect:
  - nonsense
