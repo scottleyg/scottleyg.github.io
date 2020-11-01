@@ -29,10 +29,9 @@ email: scottley35+junk@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Nonsensical rantings from a scottley
   The views expressed on this site are mine and not that of my employer, friends, family, or any rational human.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.scottgorlick.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+baseurl: / # the subpath of your site, e.g. /blog
+url: https://www.scottgorlick.com # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  scottleyg
 
 # Build settings
 markdown: kramdown
@@ -54,3 +53,7 @@ plugins:
 theme: jekyll-theme-minimal
 
 github: [metadata]
+
+minima:
+  header_pages:
+    - about.md
